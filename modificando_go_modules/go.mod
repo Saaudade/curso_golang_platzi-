@@ -14,3 +14,5 @@ require (
 	golang.org/x/sys v0.0.0-20220209214540-3681064d5158 // indirect
 	golang.org/x/text v0.3.7 // indirect
 )
+
+replace github.com/labstack/echo => ./echo
